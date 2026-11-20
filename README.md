@@ -122,7 +122,7 @@ Antes de executar a aplicação, certifique-se de possuir:
 **1. Clone o repositório:**
 
 ```bash
-git clone https://github.com/kcarloshl/cadastro-alunos-csharp-mysql.git
+git clone https://github.com/kcarloshlima/cadastro-alunos-csharp-mysql.git
 ```
 
 **2. Acesse a pasta do projeto:**
